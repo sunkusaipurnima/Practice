@@ -1,6 +1,7 @@
 {
   "title": "BCT Interview",
-  "description": "Fetch  data examples from Purnima's repository",
+  "description": "Sample Screen",
+  "Logo" : "https://pbs.twimg.com/profile_images/246859075/BCT_400x400.jpg",
   "Topics": [
     { "id": "1", "title": "React Native " },
     { "id": "2", "title": "JavaScript" },
