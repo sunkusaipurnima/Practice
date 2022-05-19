@@ -1,0 +1,9 @@
+{
+  "title": "BCT Interview",
+  "description": "Fetch remote data from Adhithi's blog",
+  "articles": [
+    { "id": "1", "title": "React Native " },
+    { "id": "2", "title": "GraphQL APIs FAQ" },
+    { "id": "3", "title": "JavaScript 101" }
+  ]
+}
